@@ -1,4 +1,3 @@
-"""Top-level implementation of the helloworld program."""
 
 import argparse
 import sys
